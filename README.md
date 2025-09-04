@@ -5,9 +5,9 @@ This is a list of interesting game engines with varying expertise, with a brief 
   A game engine created for indie developers with the intent for a game to be fully crossplay. It boasts an easy to use system and real time updates to the game when the code is changed.
 Downsides Include: Minimalist feature set, need to create your own tools, no shader support
 
-  **Unreal Engine**: www.unrealengine.com  Language: C++
-    A 3D game engine that, while very well known, is amazing for more than just game development, creating films, animating, or produce 3D spaces.
-    Downsides being sparce doccumentation, leading to a need to dedicate time to reading and understanding the source code, as well as frequent crashes generally viewed as unrelated to errors on the developer's part.
+**Unreal Engine**: www.unrealengine.com  Language: C++
+  A 3D game engine that, while very well known, is amazing for more than just game development, creating films, animating, or produce 3D spaces.
+  Downsides being sparce doccumentation, leading to a need to dedicate time to reading and understanding the source code, as well as frequent crashes generally viewed as unrelated to errors on the developer's part.
 
 **Panda3D**: panda3d.org  Language: Python & C++
   With a goal of being flexible and capable as a game engine, it lends itself to being portable as it's core is written in C++ it also includes command-line tools for processing and optimizing source assets, allowing you to automate and script your content production pipeline to fit your exact needs.
@@ -24,3 +24,10 @@ Downsides Include: Lack of scene editor, limited mobile support, and a rather ou
   **Game Maker**: https://gamemaker.io/en  Language: GML
   A 2D game developing tool that focuses on GML, boasting an easy interface with convienent tools like a room editor, arrangable workspaces and an object editor.
     Downsides: Issues with larger projects stuttering and running smoothly, as well as regular collision issues reported by users.
+
+**Unity**: unity.com Language C++
+A Cross platform development software used to make both 3D and 2D games on a variety of platforms, with it's user friendly interface, extensive asset collection, and a great community with great resources.
+  Downsides Include: Optimization and performance issues
+
+  **Godot**: https://godotengine.org/
+    
