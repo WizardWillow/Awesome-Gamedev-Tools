@@ -29,5 +29,14 @@ Downsides Include: Lack of scene editor, limited mobile support, and a rather ou
 A Cross platform development software used to make both 3D and 2D games on a variety of platforms, with it's user friendly interface, extensive asset collection, and a great community with great resources.
   Downsides Include: Optimization and performance issues
 
-  **Godot**: https://godotengine.org/
-    
+  **Godot**: https://godotengine.org/ Language: Any
+  A easy to use dev tool with both 2D and 3D potential, open source capabilites, and a dedicated 2D engine.
+    Downsides Include: not great C# availability, a bare bones profiler, unpredictable resource copying, and a lot more other problems compared to Unity.
+
+**Heaps.io**: https://heaps.io/
+  Heaps.io is a mature cross platform graphics engine designed for high performance games. It is designed to leverage modern GPUs that are commonly available on both desktop and mobile devices.
+   Downsides Include: Needing to learn how to use the Haxe system, dependency on core tech
+
+**RavEngine**: https://github.com/RavEngine/RavEngine
+  A fast C++23 3D game engine for modern devices, with wide platform support
+  Downsides Include: It is in aplha, so it may be very buggy for a lot of uses, and ther isn't a lot of information about it as of now.
